@@ -9,7 +9,9 @@ echo "This text is just an exercise in Markdown"
 
 [This git repo link](https://github.com/Spookpadda/git-workbench.git)
 
+
 [My GitHub page](https://spookpadda.github.io/my-gitpit/)
+
 
 ![A crested tern - Swan River, Fremantle](https://pasteboard.co/IgsgFBa.jpg)
 
