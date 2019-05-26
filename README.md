@@ -13,5 +13,5 @@ echo "This text is just an exercise in Markdown"
 [My GitHub page](https://spookpadda.github.io/my-gitpit/)
 
 
-![A crested tern - Swan River, Fremantle](https://pasteboard.co/IgsgFBa.jpg)
+![One good tern](https://pasteboard.co/Igsklz8.jpg)
 
